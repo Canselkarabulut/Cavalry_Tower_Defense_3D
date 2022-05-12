@@ -1,9 +1,3 @@
 # Cavalry_Tower_Defense
-<html>
-  <head>
-  </head>
-  <body>
-    <img src="https://resimyukle.io/r/s1IfCktYvs"/>
-  </body>
- </html>
+![Optional Text](Cavalry_Tower_Defense/Assets/_MyProject/İmage/Screenshot_3.png)
 
